@@ -1,0 +1,24 @@
+{
+  "name": "curso-node",
+  "version": "1.0.0",
+  "description": "'Projeto do curso de Node: Livraria Cristal'",
+  "main": "server.js",
+  "dependencies": {
+    "node": "^10.15.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/melissamoreira/curso-nodejs.git"
+  },
+  "author": "'Melissa Moreira'",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/melissamoreira/curso-nodejs/issues"
+  },
+  "homepage": "https://github.com/melissamoreira/curso-nodejs#readme"
+}
