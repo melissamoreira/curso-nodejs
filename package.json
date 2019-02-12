@@ -4,6 +4,7 @@
   "description": "'Projeto do curso de Node: Livraria Cristal'",
   "main": "server.js",
   "dependencies": {
+    "express": "4.16.3",
     "node": "^10.15.1"
   },
   "devDependencies": {},
